@@ -26,6 +26,7 @@ There are [screenshots on different platforms](https://github.com/fastfetch-cli/
 ## Installation
 
 ### Linux
+## By Mudassir Alam
 
 Some distros package an outdated fastfetch version. Older versions receive no support, so please try always to use the latest version.
 
